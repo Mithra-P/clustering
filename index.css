@@ -1,0 +1,18 @@
+.container{
+    text-align: center;  
+    margin-top: 50px;
+}
+
+.body{
+  background-image: url("/static/background.jpeg");
+  background-repeat: no-repeat;
+  background-size:cover;
+ 
+}
+
+.footer_container{
+    margin-top: 230px;
+    background-color: rgb(64, 54, 140);
+    color:white;
+    padding-left: 30px;
+}
